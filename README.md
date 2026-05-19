@@ -1,12 +1,12 @@
 # mcpath
 
-![Tests](https://github.com/legopitstop/mcpath/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/legopitstop/mcpath-py/actions/workflows/tests.yml/badge.svg)
 [![PyPI](https://img.shields.io/pypi/v/mcpath)](https://pypi.org/project/mcpath/)
 [![Python](https://img.shields.io/pypi/pyversions/mcpath)](https://www.python.org/downloads//)
 ![Downloads](https://img.shields.io/pypi/dm/mcpath)
 ![Status](https://img.shields.io/pypi/status/mcpath)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Issues](https://img.shields.io/github/issues/legopitstop/mcpath)](https://github.com/legopitstop/mcpath/issues)
+[![Issues](https://img.shields.io/github/issues/legopitstop/mcpath-py)](https://github.com/legopitstop/mcpath-py/issues)
 
 Get paths to Minecraft Java, Bedrock, Preview, and Education Edition folders, launchers, executables and java runtime.
 
